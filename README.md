@@ -1,4 +1,7 @@
-# SuperSKU
+![image](https://github.com/cooldudeseven7Dev/supersku-v1/assets/100153927/6e30c11f-d961-4b7e-b247-6860d8e0b287)
+
+
+##### The free Point of sale system
 
 ## CODE WILL BE RELEASED SOON.
 Licensed under the MIT License.
