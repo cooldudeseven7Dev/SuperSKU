@@ -1,5 +1,6 @@
 # SuperSKU
-Licensed under the MIT License.
+Licensed under the MIT License.\
+![Made with python](https://img.shields.io/badge/Made_with_python-2ea44f?logo=python)  ![Free and open source](https://img.shields.io/badge/Free_and_open_source-2ea44f)     ![Version - 1PreAlpha](https://img.shields.io/badge/Version-1PreAlpha-2ea44f) 
 
 ### Dependencies
 
