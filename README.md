@@ -1,4 +1,6 @@
 # SuperSKU
+
+## CODE WILL BE RELEASED SOON.
 Licensed under the MIT License.
 
 ![image](https://github.com/cooldudeseven7Dev/supersku-v1/assets/100153927/d17455ab-af5f-4877-87c6-e63ade0df9e6)   ![Free and open source](https://img.shields.io/badge/Free_and_open_source-2ea44f)     ![Version - 1PreAlpha](https://img.shields.io/badge/Version-1PreAlpha-2ea44f) 
