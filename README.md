@@ -1,4 +1,5 @@
-![image](https://github.com/cooldudeseven7Dev/supersku-v1/assets/100153927/6e30c11f-d961-4b7e-b247-6860d8e0b287)
+![image](https://github.com/cooldudeseven7Dev/supersku-v1/assets/100153927/00a591e3-f476-499e-9ecc-0293905d8d06)
+
 
 
 ##### The free Point of sale system
